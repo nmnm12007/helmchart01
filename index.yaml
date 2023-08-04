@@ -3,7 +3,7 @@ entries:
   helm_chartgit:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-04T17:08:21.9549716+05:30"
+    created: "2023-08-04T17:27:19.1624829+05:30"
     description: A Helm chart for Kubernetes - First Test
     digest: 5553dd227c944c28c36d3da951bba74e65229e9cc2d2980a19445e9af610dfc8
     name: helm_chartgit
@@ -14,7 +14,7 @@ entries:
   helm_chartgit_2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-04T17:08:21.956042+05:30"
+    created: "2023-08-04T17:27:19.1635204+05:30"
     description: A Helm chart for Kubernetes
     digest: a6a1a0155c4d64c59c7a8492a2c2cba7660ca804377b6ef0049643c46c019242
     name: helm_chartgit_2
@@ -22,10 +22,22 @@ entries:
     urls:
     - helm_chartgit_2-0.1.0.tgz
     version: 0.1.0
+  ins-upg-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-04T17:27:19.1645239+05:30"
+    description: A Helm chart for Kubernetes - TEST INSTALL and UPGRADE and ROLLBACK
+      OF HELM ON KUBERNETES MINIKUBE
+    digest: 6e9f93110b01c08e47b64236843b51d974e7df394625bd1dc9d0cc12a224b03e
+    name: ins-upg-test
+    type: application
+    urls:
+    - ins-upg-test-0.1.0.tgz
+    version: 0.1.0
   upg_test_helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-04T17:08:21.9565747+05:30"
+    created: "2023-08-04T17:27:19.1655453+05:30"
     description: A Helm chart for Kubernetes - Upgrade test
     digest: 1cd3b3df95b7be142ded168bf0d7f6936e3ffbf4f26e70ba958d1492a53a048e
     name: upg_test_helm
@@ -33,4 +45,4 @@ entries:
     urls:
     - upg_test_helm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-04T17:08:21.9532164+05:30"
+generated: "2023-08-04T17:27:19.1614822+05:30"
