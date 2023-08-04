@@ -3,7 +3,7 @@ entries:
   helm_chartgit:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-04T15:10:10.553601+05:30"
+    created: "2023-08-04T15:55:23.3523189+05:30"
     description: A Helm chart for Kubernetes - First Test
     digest: 5553dd227c944c28c36d3da951bba74e65229e9cc2d2980a19445e9af610dfc8
     name: helm_chartgit
@@ -11,4 +11,15 @@ entries:
     urls:
     - helm_chartgit-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-04T15:10:10.5516017+05:30"
+  helm_chartgit_2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-04T15:55:23.3533066+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a6a1a0155c4d64c59c7a8492a2c2cba7660ca804377b6ef0049643c46c019242
+    name: helm_chartgit_2
+    type: application
+    urls:
+    - helm_chartgit_2-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-04T15:55:23.351149+05:30"
