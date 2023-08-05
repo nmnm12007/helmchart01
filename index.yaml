@@ -1,31 +1,9 @@
 apiVersion: v1
 entries:
-  helm_chartgit:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-05T18:06:00.8876554+05:30"
-    description: A Helm chart for Kubernetes - First Test
-    digest: 5553dd227c944c28c36d3da951bba74e65229e9cc2d2980a19445e9af610dfc8
-    name: helm_chartgit
-    type: application
-    urls:
-    - helm_chartgit-0.1.0.tgz
-    version: 0.1.0
-  helm_chartgit_2:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-05T18:06:00.8901563+05:30"
-    description: A Helm chart for Kubernetes
-    digest: a6a1a0155c4d64c59c7a8492a2c2cba7660ca804377b6ef0049643c46c019242
-    name: helm_chartgit_2
-    type: application
-    urls:
-    - helm_chartgit_2-0.1.0.tgz
-    version: 0.1.0
   ins-chart2:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-08-05T18:06:00.8954195+05:30"
+    created: "2023-08-05T18:19:39.9694327+05:30"
     description: A Helm chart for Kubernetes
     digest: a17a24164c84706334902691caf8bb05027448b7d7c4be2a5ade50ab80c42569
     name: ins-chart2
@@ -33,14 +11,4 @@ entries:
     urls:
     - ins-chart2-0.2.0.tgz
     version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2023-08-05T18:06:00.8926529+05:30"
-    description: A Helm chart for Kubernetes
-    digest: 7ed1c020cb6f69aada9d7282b3e6c903618942fb1a65d50ac3e685f24b90a959
-    name: ins-chart2
-    type: application
-    urls:
-    - ins-chart2-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-08-05T18:06:00.8846579+05:30"
+generated: "2023-08-05T18:19:39.9674323+05:30"
